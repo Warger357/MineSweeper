@@ -10,6 +10,7 @@ Przy odkrywaniu pola możemy trafić na pola:
 - puste;
 - z cyframi od 1 do 8 (oznaczającego ile bomb znajduje się na polach sąsiadujących);
 - minę;
+
 Dzięki kafelkach z cyframi możemy obliczyć gdzie znajduje się mina.
 ![](https://media.discordapp.net/attachments/426455823426912277/692001189717475379/Screenshot_2020-03-24-14-24-28-221_a.b.c.jpg?width=974&height=468)
 Trafienie na bombę powoduje naszą przegraną i jesteśmy zmuszeni zacząć od początku.
